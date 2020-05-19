@@ -159,7 +159,7 @@ namespace hc_website
 The next step, is deploying this application using a deployment yaml definition like this:
 
 ```yaml
-apiVersion: extensions/v1beta1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: hc-website-deploy
