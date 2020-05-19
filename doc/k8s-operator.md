@@ -60,7 +60,7 @@ The [HealthCheck operator definition](https://github.com/Xabaril/AspNetCore.Diag
 
 Let's start by creating a demo namespace:
 
-`kubectl create ns lande`
+`kubectl create ns demo`
 
 And then, create a healthchecks-ui.yaml file with the following contents:
 
